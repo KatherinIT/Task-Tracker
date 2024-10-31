@@ -1,4 +1,4 @@
-# daluboi
+# Task tracker
 Repository with a plugin for my actively using IDE to help people feel more comfortable
 Author: Gorbunova Ekaterina Maksimovna М3119
 # Plugin Features and Functionalities
